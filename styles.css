@@ -1,0 +1,77 @@
+.container {
+  width: 90%;
+  /* margin: auto; */
+  text-align: center;
+}
+
+
+.dice {
+  text-align: left;
+  /* display: inline-block; */
+
+}
+
+h2{
+  text-align: center;
+  font-size: 4rem;
+  color:tomato;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 20%;
+  display: inline-block;
+}
+
+.dice1{
+  float: left;
+}
+
+.dice2{
+  float: right;
+}
+footer,a{
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1.6em;
+
+}
+
+.input_div{
+  text-align: center;
+}
+
+.inputt{
+  font-size: 80px;
+  height: 100px;
+  width: 200px;
+}
+
+
+button{
+  font-size: 120%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding: 10px;
+  height: 40px;
+  width: 10%;
+}
